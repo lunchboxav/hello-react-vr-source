@@ -1,0 +1,8 @@
+.DS_Store
+*~
+*.log
+*.js.meta
+.cert.pem
+.key.pem
+node_modules/
+build/
